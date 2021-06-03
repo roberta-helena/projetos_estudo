@@ -1,6 +1,6 @@
 # 📚 **Projetos de Estudo** 📚
 
-Os projetos a seguir foram elaborados com base nos conhecimentos adquiridos no curso *Dominando Data Science* oferecido pela [Flai](https://www.instagram.com/flai.inteligencia.artificial/)
+Projetos baseados no conteúdo do curso *Dominando Data Science* oferecido pela [Flai](https://www.instagram.com/flai.inteligencia.artificial/)
 
 
 * Análise Exploratória de Dados - **EM BREVE**

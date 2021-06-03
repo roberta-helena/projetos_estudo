@@ -1,4 +1,4 @@
-# **DATASETS**
+# 📋 **DATASETS** 📋
 
 Datasets utilizados nos projetos de estudo. Todos os datasets utilizados foram baixados do site [Kaggle](https://www.kaggle.com/)
 

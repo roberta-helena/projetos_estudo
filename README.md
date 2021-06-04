@@ -1,6 +1,6 @@
 # 📚 **Projetos de Estudo** 📚
 
-Projetos do curso *Dominando Data Science* oferecido pela [Flai](https://www.instagram.com/flai.inteligencia.artificial/)
+Projetos do curso *Dominando Data Science* oferecido pela [Flai](https://www.instagram.com/flai.inteligencia.artificial/). Datasets [aqui](https://github.com/roberta-helena/projetos_estudo/tree/main/datasets)
 
 
 * Análise Exploratória de Dados - **EM BREVE**
